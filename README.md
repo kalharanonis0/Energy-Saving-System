@@ -64,4 +64,4 @@ When the hall becomes empty, the system automatically switches the connected lig
 ## 🔌 System Architecture
 
 ![System_Architecture](Energy_Saving_System/Media/System-Architecture.png)
-![video](Energy_Saving_System/Media/intro.mp4)
+[video](Energy_Saving_System/Media/intro.mp4)
